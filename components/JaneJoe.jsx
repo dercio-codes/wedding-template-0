@@ -1,7 +1,6 @@
 import Typography from "@mui/material/Typography";
 import Box from "@mui/material/Box";
-import Grid from "@mui/material/Grid";
-import { padding } from "@mui/system";
+
 
 const JaneJoe = () => {
   return (
