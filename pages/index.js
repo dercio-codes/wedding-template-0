@@ -3,6 +3,7 @@ import TheWedding from '../components/TheWedding';
 import BottomNav from "../components/BottomNav";
 import JaneJoe from '../components/JaneJoe';
 import YouAreInvited from '../components/YouAreInvited';
+import Hope from '../components/Hope';
 
 
 export default function Home() {
@@ -12,6 +13,7 @@ export default function Home() {
       <JaneJoe />
       <YouAreInvited />
       <TheWedding/>
+      <Hope />
       <BottomNav />
     </>
   )
