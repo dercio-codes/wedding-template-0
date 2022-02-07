@@ -114,3 +114,8 @@
     flex-direction: column;
   }
 }
+
+.btn:hover{
+  background: lightgray;
+  color: black;
+}
